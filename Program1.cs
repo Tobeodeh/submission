@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace yay1
+namespace NumSelfdes
 {
    
     class Program
